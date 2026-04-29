@@ -1,5 +1,6 @@
   {
     "version": "1.0.7",
-    "download_url": "https://github.com/Zekun-Wu/GazeTrac-releases/releases/download/v1.0.7/GazeTrac_1_0_7.exe",
-    "release_notes": "fix update error"
+    "download_url": "<GitHub direct link to GazeTrac-1.0.7.zip>",
+    "hash_sha256": "c99e58cf89d5c0e4a28abf4116da20facd93a3fa5ea24359c716b982d2f0addd",
+    "release_notes": "Versioned update architecture — no more DLL errors"
   }
