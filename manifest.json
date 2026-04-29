@@ -1,6 +1,6 @@
   {
     "version": "1.0.7",
     "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.0.7/GazeTrac-1.0.7.zip",
-    "hash_sha256": "24fc539fca8bd7667cdf3169e53bb120cddc6817d0e3a07fbd477dc7bc11ec31",
+    "hash_sha256": "cd75dde75f7f124a11e687b6d9c1ed930117cae351d3fb0a326709df9b518479",
     "release_notes": "Versioned update architecture — no more DLL errors"
   }
