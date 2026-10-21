@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.1.0/GazeTrac-1.1.0.zip",
-  "hash_sha256": "f4e77c4a0c28b13f8e4b4043e62dabe3a5a0520f8c293ae530d1d2a0f923568f",
-  "release_notes": "Webcam eye tracking, redesigned interface, GazeTrac accounts with a 1-month free trial"
+  "version": "1.2.0",
+  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.2.0/GazeTrac-1.2.0.zip",
+  "hash_sha256": "978e75d22a5288ff485bfd936f070f509a0cb09f5f38e595b1461595f40cca3d",
+  "release_notes": "Focus sessions: timed focus with a live ring, gentle check-ins when you look away, and a session history with your focus rate. Plus interface polish."
 }
