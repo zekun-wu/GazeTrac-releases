@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.2.1/GazeTrac-1.2.1.zip",
-  "hash_sha256": "a4674a8a1eafa2c7b99abf2d31f1b9e358ec6bf210367600978f6ff844ab3a60",
-  "release_notes": "This update makes your focus sessions easier to read. Pauses now appear on the session timeline at their real length, quick glances away no longer count as distractions, and hovering the timeline shows when each stretch started and how long it lasted. The focus dropdown and the account card have a cleaner design, and a few labels are clearer."
+  "version": "1.3.0",
+  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.3.0/GazeTrac-1.3.0.zip",
+  "hash_sha256": "f8067b5469871874b38d020d40f2cd857ba1ec8af5ce0f9e1dc8a9ef953709c0",
+  "release_notes": "Focus Circle is here. Create a circle with friends, set a weekly focus goal each, and see each other's progress live: who's focusing right now, your combined time towards your goals, and quick emoji reactions to each other's sessions. The Focus view has a cleaner layout that adapts to your window size, and you can now show your password while typing it."
 }
