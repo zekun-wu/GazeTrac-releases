@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.3.0/GazeTrac-1.3.0.zip",
-  "hash_sha256": "f8067b5469871874b38d020d40f2cd857ba1ec8af5ce0f9e1dc8a9ef953709c0",
-  "release_notes": "Focus Circle is here. Create a circle with friends, set a weekly focus goal each, and see each other's progress live: who's focusing right now, your combined time towards your goals, and quick emoji reactions to each other's sessions. The Focus view has a cleaner layout that adapts to your window size, and you can now show your password while typing it."
+  "version": "1.3.2",
+  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.3.2/GazeTrac-1.3.2.zip",
+  "hash_sha256": "66fc2d9f32bd49af58ad1270875811aed2968ea06ca99b11d1cb069ae2524fbc",
+  "release_notes": "Built-in eye tracking is much steadier: it no longer loses you when you shift in your seat or lean in, while looking away is still noticed. Please recalibrate once after updating to get the full benefit. Your focus rate is now calculated the same way everywhere, so the Focus timer, Calendar, Insights and Google Calendar show matching numbers. A slow connection no longer makes Pro briefly show as Free, and the Circle buttons fit on smaller windows."
 }
