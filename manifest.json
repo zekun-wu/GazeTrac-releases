@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.3.2/GazeTrac-1.3.2.zip",
-  "hash_sha256": "66fc2d9f32bd49af58ad1270875811aed2968ea06ca99b11d1cb069ae2524fbc",
-  "release_notes": "Built-in eye tracking is much steadier: it no longer loses you when you shift in your seat or lean in, while looking away is still noticed. Please recalibrate once after updating to get the full benefit. Your focus rate is now calculated the same way everywhere, so the Focus timer, Calendar, Insights and Google Calendar show matching numbers. A slow connection no longer makes Pro briefly show as Free, and the Circle buttons fit on smaller windows."
+  "version": "1.3.3",
+  "download_url": "https://github.com/zekun-wu/GazeTrac-releases/releases/download/v1.3.3/GazeTrac-1.3.3.zip",
+  "hash_sha256": "0ffa3490b26e3c5f8feb7cbdda26f64d578e32616217dc01a20b309b9e113c2a",
+  "release_notes": "Built-in eye tracking now works during video calls: GazeTrac shares the camera with Teams and other meeting apps. It also learns from your clicks to stay accurate as you move, and lets you know when a recalibration would help. The app under your gaze no longer flickers between windows, Stop responds instantly, and Pro features no longer flash as locked when you sign in."
 }
